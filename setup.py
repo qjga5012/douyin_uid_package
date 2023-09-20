@@ -15,7 +15,7 @@ setup(
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     license="MIT",
-    url="",
+    url="https://github.com/qjga5012/douyin_uid_package",
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
