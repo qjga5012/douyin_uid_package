@@ -12,8 +12,8 @@ setup(
     author="caohui524",
     author_email="408141249@qq.com",
     description="A library for obtaining tiktok uid",
-    long_description=open("README.md").read(),
-    long_description_content_type="text/markdown",
+    # long_description=open("README.md").read(),
+    # long_description_content_type="text/markdown",
     license="MIT",
     url="https://github.com/qjga5012/douyin_uid_package",
     classifiers=[
